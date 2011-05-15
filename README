@@ -1,12 +1,15 @@
-aLM335 Copyright 2011 Kes Calhoun
+aLM335i Copyright 2011 Kes Calhoun
 
 1. Description
 
-aLM335 is a library for controlling the common LM335 sensor. This sensor is
+aLM335i is a library for controlling the common LM335 sensor. This sensor is
 used, in among other places, the Arduino explorer kit. It's one of the first
 "complicated" sensors an Arduino user tends to poke at, and has a few pitfalls
 in its use. This library handles most of the difficult tasks faced by someone
 wishing to use this component, and includes several helpful functions.
+
+This library is the pure integer version, for use in constrained memory 
+situations. 
 
 2. Usage
 
