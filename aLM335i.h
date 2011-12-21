@@ -1,7 +1,7 @@
 #ifndef aLM335i_H
 #define aLM335i_H
 
-#include <WProgram.h>
+#include <Arduino.h>
 
 /* aLM335 Copyright 2011 Kes Calhoun
   All rights reserved.

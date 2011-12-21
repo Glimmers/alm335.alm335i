@@ -1,4 +1,3 @@
-#include <WProgram.h>
 #include "aLM335i.h"
 
 /* aLM335 Copyright 2011 Kes Calhoun
