@@ -3,7 +3,7 @@
 
 #include <Arduino.h>
 
-/* aLM335 Copyright 2011 Kes Calhoun
+/* aLM335i Copyright 2011 Kes Calhoun
   All rights reserved.
 
   Redistribution and use in source and binary forms, with or without
